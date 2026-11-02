@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maryclaire Ifeoma Onwukwe
 
-- 👀 I’m interested in AI, database management,cloud computing, python, cryptography and others!.
+- 👀 I’m interested in AI, Technology, Database management, Cloud computing, Python and others!.
 - 🌱 I’m currently learning everything I am interested in...
 - 💞️ I’m looking to collaborate on exciting and mindblowing projects.
 - 📫 How to reach me ifeomaonwukwe39@gmail.com(i respond very fast!).
